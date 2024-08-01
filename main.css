@@ -1,0 +1,76 @@
+
+
+.mainContant {
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 0 auto;
+    
+}
+
+/* nav bar */
+.nav-bottn {
+    color: white;
+    font-size: 1rem;
+}
+
+/* section header */
+.sectionHeader {
+    margin-top: 50px;
+    text-align: center;
+    color: orange;
+}
+
+/* after nav bar */
+
+
+.imageafternavbar {
+    background-image: url('/portfolio_setup-release/images/headerback.jpg');
+   
+    opacity: 0.5;
+    
+}
+
+.person1 {
+    height: 20rem;
+    border-radius: 200px;
+ 
+}
+
+.imageRight {
+    border-right: 2px solid black;
+}
+
+.aboutMe {
+    padding-top: 60px;
+}
+
+.midSection {
+    display: flex;
+    
+}
+.txtabout {
+    margin-top: 20px;
+    text-align: start;
+}
+
+.imgPortfolio {
+    height: 200px;
+    width: 200px;
+    margin: 20px 0px;
+    padding: 0 auto;
+}
+
+.blogimg {
+    height: 10rem;
+    border-image-width: 100%;
+}
+
+.container10 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    margin: 130px;
+}
+
